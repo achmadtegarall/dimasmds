@@ -1,34 +1,43 @@
-### Hi! 👋 I'm Dimas.
+## Hi Everyone!  
+### 👨🏻‍🎓 My name is **Achmad Tegar Almannudin**  
 
-An independent Software Engineer who loves to create and share projects about web and mobile technology! I've enjoyed JavaScript and make it the main language in creating a project.
+I'm a *Web Developer* and *Undergraduate Student* for Computer Science at [Mercubuana University](https://mercubuana.ac.id/) since 2022. I have been actively joining the [Google Developer Indonesia](https://www.instagram.com/gdevsid/) community since 2024, i am also part of [Google Developer Jakarta](https://gdg.community.dev/gdg-jakarta/) and [Google Cloud Developer Jakarta](https://gdg.community.dev/gdg-cloud-jakarta/). I have also completed several certified programming classes at [dicoding indonesia](https://www.dicoding.com/). 
 
-I'm currently active in contributing as Curriculum Developer at <a href="https://github.com/dicodingacademy">@dicodingacademy</a> to build courses in Front-End Apps (Web, Android) and Back-End Service.
+### 🛠️ Tech Stack  
+<img align="left" src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/CSS-%231572B6.svg?logo=css3&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E"/>  
+<img align="left" src="https://img.shields.io/badge/PHP-%23777BB4.svg?logo=php&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?logo=laravel&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/React-%2361DAFB.svg?logo=react&logoColor=black"/>  
+<img align="left" src="https://img.shields.io/badge/Tailwind-%2306B6D4.svg?logo=tailwindcss&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white"/>  
+<img align="left" src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"/>  
+<br><br>
 
-- 🔭 I’m currently working on <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
-- 🌱 I’m currently learning about cloud technology for back-end apps
-- 💬 Feel free to ask me about web development or JavaScript
-- 📫 How to reach me: dimas@dicoding.com
-- ⚡ Fun fact: Novice Pianist
-
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="21px" src="https://cdn-icons-png.flaticon.com/512/5968/5968322.png" /></a>
-  <a href="https://reactjs.org/"><img align="left" alt="React" title="React" width="21px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg" /></a>
-  <a href="https://hapi.dev/"><img align="left" alt="Hapi" title="Hapi (NodeJS HTTP Framework)" width="21px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-  <a href="https://nextjs.org/"><img align="left" alt="Next" title="Next (React SSR Framework)" width="21px" src="https://iconape.com/wp-content/files/gm/82643/svg/next-js.svg" /></a>
-  <br>
-  <br>
-  
-### Github Statistic
+### 📊 Github Statistic 
+#### Light Mode
 <p align="left">
-<a href="https://github.com/dimasmds">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dimasmds&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dimasmds&layout=compact&langs_count=8&theme=algolia"/>
+<a href="https://github.com/achmadtegarall">
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achmadtegarall&layout=compact&langs_count=8&theme=buefy"/>
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=achmadtegarall&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
 </a>
 </p>
 
-### Reach me on
-- <a href="https://linkedin.com/in/dimasmds/">LinkedIn</a>
-- <a href="https://dmds.dev">dmds.dev</a>
-- dimas@dicoding.com
-- <a href="https://twitter/dimsmds">Twitter</a>
+#### Dark mode
+<p align="left">
+<a href="https://github.com/dimasmds">
+   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=achmadtegarall&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=achmadtegarall&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+</a>
+</p>
+
+### 🔍 You Can Find Me at  
+<p> 
+  <a href="https://www.linkedin.com/in/achmad-tegar-almannudin-481a06319" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a> 
+  <a href="https://www.instagram.com/achmdtegar_al/" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a> 
+</p>
